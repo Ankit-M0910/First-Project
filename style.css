@@ -219,6 +219,7 @@ ul li a:hover{
 
 ::placeholder{
     font-family: Arial, Helvetica, sans-serif;
+    color: rgb(202, 33, 160);
 }
 
 .btnn{
